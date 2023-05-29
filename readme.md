@@ -61,4 +61,4 @@ Contributions are welcome! If you find any issues or want to improve the game, f
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project was inspired by [Blackjack](https://en.wikipedia.org/wiki/Blackjack), most widely played casino banking game in the world.
